@@ -35,7 +35,7 @@ Time spent: `<9 hours>`
 ### Walkthrough
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![Video Walkthrough](https://raw.githubusercontent.com/fnguye1/My-Projects/master/dropbox/dropbox.gif)
 
 
 
