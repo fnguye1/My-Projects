@@ -1,0 +1,28 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "Assignment 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node -- --stage 1 --optional strict -- index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.3",
+    "bluebird-nodeify": "^1.0.0",
+    "body-parser": "^1.14.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.0",
+    "datauri": "^0.6.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "express-then": "^1.0.3",
+    "mongoose": "^4.3.5",
+    "morgan": "^1.6.1",
+    "multiparty": "^4.1.2",
+    "nodeifyit": "^1.0.2",
+    "passport": "^0.2.2",
+    "passport-local": "^1.0.0",
+    "songbird": "^1.0.1"
+  }
+}
